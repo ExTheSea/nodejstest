@@ -1,0 +1,25 @@
+{
+  "name": "poly",
+  "description": "TestPolyNode",
+  "main": "test",
+  "moduleType": [],
+  "keywords": [
+    "test"
+  ],
+  "authors": [
+    "Me"
+  ],
+  "license": "mit",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#1.1.0"
+  }
+}
